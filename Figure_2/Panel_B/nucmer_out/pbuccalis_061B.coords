@@ -1,0 +1,58 @@
+/tmp/pseudochroms/p_buccalis_atcc.fasta /tmp/pseudochroms/Subject_061B_FE.pseudochrom.fa
+NUCMER
+
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+   93634    94186  |  3232150  3231599  |      553      552  |    95.84  | p_buccalis_atcc	Subject_061B_FE
+  344970   345077  |  3106813  3106925  |      108      113  |    93.81  | p_buccalis_atcc	Subject_061B_FE
+  344969   345045  |  1020789  1020865  |       77       77  |    98.70  | p_buccalis_atcc	Subject_061B_FE
+  479593   480077  |  2740499  2740012  |      485      488  |    83.67  | p_buccalis_atcc	Subject_061B_FE
+  602837   603014  |  2450992  2450815  |      178      178  |    91.01  | p_buccalis_atcc	Subject_061B_FE
+  602837   602912  |  1624252  1624327  |       76       76  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+  621364   621454  |   454100   454010  |       91       91  |    92.31  | p_buccalis_atcc	Subject_061B_FE
+  685647   685753  |  3103144  3103250  |      107      107  |    92.52  | p_buccalis_atcc	Subject_061B_FE
+  742467   743015  |  2802613  2803161  |      549      549  |    84.73  | p_buccalis_atcc	Subject_061B_FE
+  846480   846694  |  3056456  3056670  |      215      215  |    93.02  | p_buccalis_atcc	Subject_061B_FE
+  848092   857410  |  3061551  3070870  |     9319     9320  |    96.01  | p_buccalis_atcc	Subject_061B_FE
+  864903   865018  |   710518   710631  |      116      114  |    90.52  | p_buccalis_atcc	Subject_061B_FE
+  870614   873161  |  3070870  3073417  |     2548     2548  |    92.82  | p_buccalis_atcc	Subject_061B_FE
+  909897   910098  |  2656830  2657031  |      202      202  |    88.67  | p_buccalis_atcc	Subject_061B_FE
+  943917   944169  |  1441222  1441474  |      253      253  |    86.61  | p_buccalis_atcc	Subject_061B_FE
+  979893   980591  |  3226948  3226255  |      699      694  |    90.90  | p_buccalis_atcc	Subject_061B_FE
+ 1179028  1179882  |  1768135  1767283  |      855      853  |    82.58  | p_buccalis_atcc	Subject_061B_FE
+ 1184498  1188101  |    12457    16059  |     3604     3603  |    80.97  | p_buccalis_atcc	Subject_061B_FE
+ 1287242  1287319  |  2144867  2144944  |       78       78  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 1295922  1296273  |  2847046  2847400  |      352      355  |    83.84  | p_buccalis_atcc	Subject_061B_FE
+ 1369847  1370430  |  2166967  2166382  |      584      586  |    81.57  | p_buccalis_atcc	Subject_061B_FE
+ 1685337  1685417  |   910885   910804  |       81       82  |    96.34  | p_buccalis_atcc	Subject_061B_FE
+ 1710586  1710662  |  1252158  1252082  |       77       77  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 1718212  1719792  |  2809121  2810701  |     1581     1581  |    78.33  | p_buccalis_atcc	Subject_061B_FE
+ 1730406  1730485  |  1668328  1668407  |       80       80  |    98.75  | p_buccalis_atcc	Subject_061B_FE
+ 1730407  1730484  |  1668443  1668520  |       78       78  |    98.72  | p_buccalis_atcc	Subject_061B_FE
+ 2006216  2007219  |  3230606  3229602  |     1004     1005  |    88.68  | p_buccalis_atcc	Subject_061B_FE
+ 2029033  2031947  |  3066166  3069080  |     2915     2915  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 2059857  2060357  |  3229560  3229061  |      501      500  |    92.06  | p_buccalis_atcc	Subject_061B_FE
+ 2102613  2102823  |   773392   773605  |      211      214  |    84.40  | p_buccalis_atcc	Subject_061B_FE
+ 2121359  2121435  |  2144942  2144866  |       77       77  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 2146216  2146291  |  2450916  2450991  |       76       76  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 2146202  2147861  |  1624341  1622718  |     1660     1624  |    84.37  | p_buccalis_atcc	Subject_061B_FE
+ 2146329  2146413  |  2873504  2873587  |       85       84  |    95.29  | p_buccalis_atcc	Subject_061B_FE
+ 2148841  2150191  |  1621781  1620426  |     1351     1356  |    85.00  | p_buccalis_atcc	Subject_061B_FE
+ 2150609  2150997  |  1620026  1619638  |      389      389  |    84.32  | p_buccalis_atcc	Subject_061B_FE
+ 2208422  2211926  |  1606937  1603489  |     3505     3449  |    83.20  | p_buccalis_atcc	Subject_061B_FE
+ 2212301  2215362  |  1603114  1600065  |     3062     3050  |    81.66  | p_buccalis_atcc	Subject_061B_FE
+ 2216700  2217749  |  1598727  1597669  |     1050     1059  |    80.30  | p_buccalis_atcc	Subject_061B_FE
+ 2219143  2219979  |  1596379  1595535  |      837      845  |    84.02  | p_buccalis_atcc	Subject_061B_FE
+ 2220522  2222133  |  1595071  1593460  |     1612     1612  |    85.25  | p_buccalis_atcc	Subject_061B_FE
+ 2255766  2256761  |  2754850  2755836  |      996      987  |    79.36  | p_buccalis_atcc	Subject_061B_FE
+ 2385521  2385614  |    63516    63422  |       94       95  |    95.79  | p_buccalis_atcc	Subject_061B_FE
+ 2425603  2425777  |  2230706  2230523  |      175      184  |    90.27  | p_buccalis_atcc	Subject_061B_FE
+ 2425603  2425777  |  2230597  2230408  |      175      190  |    88.95  | p_buccalis_atcc	Subject_061B_FE
+ 2504428  2504505  |  2237860  2237937  |       78       78  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 2504428  2504505  |  2237575  2237652  |       78       78  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 2504430  2504505  |  1848218  1848293  |       76       76  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 2504741  2504922  |    57381    57568  |      182      188  |    84.38  | p_buccalis_atcc	Subject_061B_FE
+ 2558997  2559084  |  1545308  1545395  |       88       88  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 2683522  2683944  |  1561915  1562347  |      423      433  |    83.94  | p_buccalis_atcc	Subject_061B_FE
+ 2964210  2964290  |  1916509  1916589  |       81       81  |   100.00  | p_buccalis_atcc	Subject_061B_FE
+ 2964207  2964287  |  1916629  1916710  |       81       82  |    98.78  | p_buccalis_atcc	Subject_061B_FE

@@ -1,0 +1,5 @@
+# name	color	faa
+p_copri_nora	p_copri_nora	/comp_node0/andrew/proj/prevotella/results/20120312_OTU5_v2_scaffolds.fasta
+p_copri_dsm	p_copri_dsm	/comp_node0/andrew/proj/prevotella/results/20120309_Pcopri_DSM_scaffolds.fasta
+p_buccalis_atcc	p_buccalis_atcc	/comp_node0/andrew/proj/prevotella/results/20120314_Prevotella_buccalis_ATCC_35310.fna
+p_buccae_atcc	p_buccae_atcc	/comp_node0/andrew/proj/prevotella/results/20120314_Prevotella_buccae_ATCC_33574.fna

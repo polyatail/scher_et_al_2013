@@ -1,0 +1,59 @@
+/tmp/pseudochroms/p_buccae_atcc.fasta /tmp/pseudochroms/Subject_061B_FE.pseudochrom.fa
+NUCMER
+
+    [S1]     [E1]  |     [S2]     [E2]  |  [LEN 1]  [LEN 2]  |  [% IDY]  | [TAGS]
+=====================================================================================
+   55124    56961  |  1443443  1441606  |     1838     1838  |    80.76  | p_buccae_atcc	Subject_061B_FE
+  225704   226120  |  1562339  1561915  |      417      425  |    81.73  | p_buccae_atcc	Subject_061B_FE
+  234206   234947  |  1099351  1100092  |      742      742  |    81.32  | p_buccae_atcc	Subject_061B_FE
+  262462   265600  |  1593000  1596130  |     3139     3131  |    84.55  | p_buccae_atcc	Subject_061B_FE
+  267685   275657  |  1597669  1605580  |     7973     7912  |    83.75  | p_buccae_atcc	Subject_061B_FE
+  275850   277174  |  1605614  1606937  |     1325     1324  |    83.58  | p_buccae_atcc	Subject_061B_FE
+  287613   288580  |  1614023  1614990  |      968      968  |    82.77  | p_buccae_atcc	Subject_061B_FE
+  288833   295420  |  1615246  1621780  |     6588     6535  |    81.06  | p_buccae_atcc	Subject_061B_FE
+  295815   296342  |  1622135  1622660  |      528      526  |    83.40  | p_buccae_atcc	Subject_061B_FE
+  297692   298719  |  1623981  1624969  |     1028      989  |    79.06  | p_buccae_atcc	Subject_061B_FE
+  298000   298076  |  2450993  2450917  |       77       77  |   100.00  | p_buccae_atcc	Subject_061B_FE
+  299409   299669  |  1625655  1625920  |      261      266  |    87.27  | p_buccae_atcc	Subject_061B_FE
+  479745   480102  |  2847409  2847046  |      358      364  |    83.92  | p_buccae_atcc	Subject_061B_FE
+  489641   489897  |  1979273  1979017  |      257      257  |    81.40  | p_buccae_atcc	Subject_061B_FE
+  560340   560423  |  1916588  1916505  |       84       84  |    98.81  | p_buccae_atcc	Subject_061B_FE
+  560342   560418  |  1916710  1916634  |       77       77  |   100.00  | p_buccae_atcc	Subject_061B_FE
+  572738   574983  |  2753636  2755880  |     2246     2245  |    81.25  | p_buccae_atcc	Subject_061B_FE
+  585664   585761  |  2766401  2766496  |       98       96  |    90.10  | p_buccae_atcc	Subject_061B_FE
+  746948   748344  |   778673   777274  |     1397     1400  |    81.44  | p_buccae_atcc	Subject_061B_FE
+  969431   969615  |  1501549  1501365  |      185      185  |    88.24  | p_buccae_atcc	Subject_061B_FE
+ 1024951  1025039  |  1545308  1545396  |       89       89  |   100.00  | p_buccae_atcc	Subject_061B_FE
+ 1124887  1124971  |  1930982  1931066  |       85       85  |    98.82  | p_buccae_atcc	Subject_061B_FE
+ 1221571  1222472  |  2738993  2739891  |      902      899  |    83.30  | p_buccae_atcc	Subject_061B_FE
+ 1369952  1371782  |  3227248  3225426  |     1831     1823  |    87.99  | p_buccae_atcc	Subject_061B_FE
+ 1371795  1372453  |  3232250  3231596  |      659      655  |    91.50  | p_buccae_atcc	Subject_061B_FE
+ 1374762  1376046  |  2167035  2165759  |     1285     1277  |    77.89  | p_buccae_atcc	Subject_061B_FE
+ 1389057  1389647  |  2154315  2153722  |      591      594  |    81.68  | p_buccae_atcc	Subject_061B_FE
+ 1476005  1477151  |   657201   658347  |     1147     1147  |    79.29  | p_buccae_atcc	Subject_061B_FE
+ 1715573  1715971  |   329490   329887  |      399      398  |    85.36  | p_buccae_atcc	Subject_061B_FE
+ 1733859  1734452  |   295813   295220  |      594      594  |    79.19  | p_buccae_atcc	Subject_061B_FE
+ 1885867  1886039  |  2450992  2450820  |      173      173  |    96.53  | p_buccae_atcc	Subject_061B_FE
+ 2018473  2019289  |  1218699  1219482  |      817      784  |    80.44  | p_buccae_atcc	Subject_061B_FE
+ 2060113  2060462  |  1697538  1697177  |      350      362  |    81.77  | p_buccae_atcc	Subject_061B_FE
+ 2081644  2082305  |  1786764  1787434  |      662      671  |    84.07  | p_buccae_atcc	Subject_061B_FE
+ 2081866  2082044  |  1786660  1786839  |      179      180  |    91.71  | p_buccae_atcc	Subject_061B_FE
+ 2092705  2093279  |  1207170  1207754  |      575      585  |    81.02  | p_buccae_atcc	Subject_061B_FE
+ 2114941  2115020  |  1295523  1295443  |       80       81  |    97.53  | p_buccae_atcc	Subject_061B_FE
+ 2214654  2215305  |  1282658  1283310  |      652      653  |    83.23  | p_buccae_atcc	Subject_061B_FE
+ 2279450  2280383  |   249377   250310  |      934      934  |    80.02  | p_buccae_atcc	Subject_061B_FE
+ 2332078  2332360  |    57659    57381  |      283      279  |    84.48  | p_buccae_atcc	Subject_061B_FE
+ 2332285  2332362  |    57315    57238  |       78       78  |   100.00  | p_buccae_atcc	Subject_061B_FE
+ 2405195  2405283  |  2808768  2808856  |       89       89  |    98.88  | p_buccae_atcc	Subject_061B_FE
+ 2510116  2510207  |  3103255  3103164  |       92       92  |    98.91  | p_buccae_atcc	Subject_061B_FE
+ 2553969  2554618  |  2402569  2401920  |      650      650  |    75.04  | p_buccae_atcc	Subject_061B_FE
+ 2713828  2715242  |  3229062  3230474  |     1415     1413  |    89.01  | p_buccae_atcc	Subject_061B_FE
+ 2742629  2743444  |  1768101  1767288  |      816      814  |    82.58  | p_buccae_atcc	Subject_061B_FE
+ 2826612  2827639  |  1675785  1674758  |     1028     1028  |    81.86  | p_buccae_atcc	Subject_061B_FE
+ 2951782  2952183  |  1198952  1199355  |      402      404  |    81.23  | p_buccae_atcc	Subject_061B_FE
+ 2983370  2984143  |   923284   922511  |      774      774  |    80.41  | p_buccae_atcc	Subject_061B_FE
+ 3012815  3012891  |  1848294  1848218  |       77       77  |   100.00  | p_buccae_atcc	Subject_061B_FE
+ 3012811  3012892  |  2237942  2237861  |       82       82  |    98.78  | p_buccae_atcc	Subject_061B_FE
+ 3012815  3012892  |  2237653  2237576  |       78       78  |   100.00  | p_buccae_atcc	Subject_061B_FE
+ 3173528  3175120  |  2241135  2239543  |     1593     1593  |    81.02  | p_buccae_atcc	Subject_061B_FE
+ 3207716  3207797  |   910885   910804  |       82       82  |    98.78  | p_buccae_atcc	Subject_061B_FE
